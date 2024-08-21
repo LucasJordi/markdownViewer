@@ -41,7 +41,7 @@ To get started, follow these steps:
    Execute the following command to start the Streamlit server:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. **Access the App**:
@@ -55,7 +55,7 @@ To get started, follow these steps:
 
 ## Example
 
-1. Start the app by running `streamlit run app.py`.
+1. Start the app by running `streamlit run main.py`.
 2. Go to the app URL in your browser.
 3. Upload a Markdown file (e.g., `README.md`).
 4. View the rendered Markdown content in the app.
@@ -75,24 +75,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [lucasjordisilva@gmail.com](mailto:lucasjordisilva@gmail.com).
 
 ---
 
 Thank you for using the Streamlit Markdown Viewer!
 
 
-### Key Sections in the README:
-
-- **Overview**: Briefly describes the purpose of the app.
-- **Features**: Lists the main functionalities.
-- **Requirements**: Specifies the prerequisites.
-- **Installation**: Provides steps to install dependencies and set up the app.
-- **Usage**: Instructions on how to run and use the app.
-- **Example**: A brief example of how to interact with the app.
-- **Troubleshooting**: Common issues and solutions.
-- **Contributing**: How others can contribute to the project.
-- **License**: Licensing information.
-- **Contact**: Contact information for further inquiries.
-
-Feel free to customize the content according to your needs and repository details!
